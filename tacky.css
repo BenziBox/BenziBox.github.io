@@ -1,9 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 body {
+  background-image:url('plaid-background.jpg');
+  background-repeat:repeat;
+}
+
+.background {
 	margin:0;
-  padding:0;
-  background-color: red;
+	padding:0;
+  width:100%;
+  /*background-color: red;*/
     background-image:url('walmart.jpg');
     background-repeat:no-repeat;
     background-attachment:fixed;
